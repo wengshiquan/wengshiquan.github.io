@@ -11,9 +11,18 @@
     
     
     <item>
+      <title>整理的一些知识点（网络转载）</title>
+      <link>https://wengshiquan.github.io/reprint/</link>
+      <pubDate>Thu, 21 Nov 2019 16:16:05 +0800</pubDate>
+      
+      <guid>https://wengshiquan.github.io/reprint/</guid>
+      <description>可查询的关键词： 前端：【vue】【Hugo】 前端 [vue] 模拟数据： vue-cli3本地模拟数据（一） vue-cli3本地模拟数据之接口封装（二） [Hugo]</description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>https://wengshiquan.github.io/posts/</link>
-      <pubDate>Thu, 21 Nov 2019 16:16:05 +0800</pubDate>
+      <pubDate>Wed, 20 Nov 2019 22:27:51 +0800</pubDate>
       
       <guid>https://wengshiquan.github.io/posts/</guid>
       <description></description>
@@ -25,7 +34,7 @@
       <pubDate>Thu, 15 Aug 2019 13:19:18 +0800</pubDate>
       
       <guid>https://wengshiquan.github.io/about/</guid>
-      <description>联系方式 github: @wengshiquan email: 419422059@qq.com 感谢主题作者：xiaoheiAh</description>
+      <description>个人简介 联系方式 github: @wengshiquan email: 419422059@qq.com 感谢主题作者：xiaoheiAh</description>
     </item>
     
   </channel>
